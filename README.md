@@ -7,7 +7,6 @@ This is a solution to the [Newsletter sign-up form with success message challeng
 - [The challenge](#the-challenge)
 - [Links](#links)
 - [What I learned](#what-i-learned)
-- [Author](#author)
 
 ### The challenge
 
@@ -35,7 +34,3 @@ I learned how to use the dialog HTML element with for the success message and op
 
 I also learned how to get the user input from the form in js and use regex to validate the email. The limitations of using regex quickly became apparent and I would like to try use a third party package next time. 
 
-## Author
-
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-# newsletter-sign-up-form
