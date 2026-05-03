@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Git Hub](https://github.com/joKC-tech/Newsletter-signup-form)
-- Live Site URL: [Live site](https://jokc-tech.github.io/Newsletter-signup-form/)
+- Solution URL: [Git Hub](https://github.com/joKC-tech/newsletter-sign-up-form)
+- Live Site URL: [Live site](https://jokc-tech.github.io/newsletter-sign-up-form/)
 
 
 ### What I learned
