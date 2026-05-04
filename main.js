@@ -32,7 +32,9 @@ function handleSubmit(e){
 }
 
 function handleDismiss(){
-    successMessage.close()
+    successMessage.close();
+    emailInput.value = ''
+
 }
 
 

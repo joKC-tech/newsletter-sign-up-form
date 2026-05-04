@@ -50,6 +50,14 @@ main {
     box-shadow: var(--drop-shadow);
 
 }
+picture { 
+    width: 100%;
+}
+
+img { 
+    width: 100%;
+    object-fit: cover;
+}
 
 .column {
     display: flex;
@@ -150,7 +158,8 @@ button:hover {
 }
 
 .error input {
-    border: solid 2px var(--Red);
+    border: solid 1px var(--Red);
+    outline: solid 1px var(--Red);
     background-color: var(--Red-light);
     color: var(--Red)
 }
@@ -211,9 +220,15 @@ dialog button {
         border-radius: 1.5rem;
      }
 
-    img {
-        margin: 1rem
+    picture {
+        padding: 1rem;
+        width: 100%
     } 
+
+    img { 
+        width: 100%;
+        object-fit: cover;
+    }
 }
 
 @media (min-width: 46rem){
